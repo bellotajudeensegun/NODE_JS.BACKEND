@@ -4,3 +4,4 @@ const sayHi = (name) => {
 
 //exporting default
 module.exports = sayHi;
+
